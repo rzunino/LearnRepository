@@ -5,3 +5,6 @@ def bark():
 
 def couac():
     pass
+
+def aaaaa():
+    pass
