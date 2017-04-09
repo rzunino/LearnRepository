@@ -7,4 +7,4 @@ def couac():
     pass
 
 def bbb():
-    return 'Koko'
+    return 'Koku'
