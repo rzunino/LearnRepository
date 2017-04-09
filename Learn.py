@@ -8,3 +8,7 @@ def couac():
 
 def bbb():
     return 'Koku'
+
+def kiki():
+    pass
+
