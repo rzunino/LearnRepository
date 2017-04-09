@@ -1,7 +1,10 @@
 import requests
 
 def bark():
-    return "Wouaf wouaf"
+    return 'Wouaf wouaf'
 
 def run():
     return 'run run'
+
+def bite():
+    return 'it hurts'
