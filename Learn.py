@@ -7,4 +7,5 @@ def couac():
     pass
 
 def aaaaa():
-    pass
+    return 'Kaka'
+
