@@ -5,3 +5,7 @@ def bark():
 
 def couac():
     pass
+
+def aaaaa():
+    return 'Kaka'
+
