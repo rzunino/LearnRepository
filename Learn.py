@@ -8,3 +8,6 @@ def run():
 
 def bite():
     return 'it hurts'
+
+def sleep():
+    return 'rrrrrrr'
